@@ -42,10 +42,9 @@ ol {
 
 
 .nav-styles-link:hover,
-.nav-styles-link:visited {
+.nav-styles-link:focus {
     color: #404bbf;
-    text-decoration: underline;
-}
+}    
 
 address {
     font-style: normal;
