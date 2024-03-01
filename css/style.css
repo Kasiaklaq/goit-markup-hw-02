@@ -40,12 +40,11 @@ ol {
     letter-spacing: 0.02em;
 }
 
-.nav-styles-link:hover{
-    color: #404bbf;
-}
 
-.nav-styles-link:focus {
+.nav-styles-link:hover,
+.nav-styles-link:visited {
     color: #404bbf;
+    text-decoration: underline;
 }
 
 address {
