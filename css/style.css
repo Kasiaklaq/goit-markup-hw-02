@@ -40,7 +40,10 @@ ol {
     letter-spacing: 0.02em;
 }
 
-.nav-styles-link:hover,
+.nav-styles-link:hover{
+    color: #404bbf;
+}
+
 .nav-styles-link:focus {
     color: #404bbf;
 }
