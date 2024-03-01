@@ -41,7 +41,7 @@ ol {
 }
 
 .nav-styles-link:hover,
-.nav-styles-link:focus {
+.nav-styles-link:visited {
     color: #404bbf;
 }    
 
@@ -57,7 +57,7 @@ address {
 }
 
 .link-address:hover,
-.link-address:focus {
+.link-address:visited {
     color: #404bbf;
 }
 
