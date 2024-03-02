@@ -49,19 +49,17 @@ address {
     font-style: normal;
 }
 
-.link-adress {
+.adress-link {
     color: #434455;
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0.02em;
 }
 
-.link-address:hover,
-.link-address:focus {
+.adress-link:hover,
+.adress-link:focus {
     color: #404bbf;
-        font-weight: 400;
-            font-size: 16px;
-            letter-spacing: 0.02em;
+    
 }
 
 .main-section-style {
